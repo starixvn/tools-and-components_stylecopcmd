@@ -1,0 +1,16 @@
+D:\SourceCode\Tools-Git\StyleCopCmd\src\Net.SF.StyleCopCmd.Console\bin\Debug\Net.SF.StyleCopCmd.Console.exe.config
+D:\SourceCode\Tools-Git\StyleCopCmd\src\Net.SF.StyleCopCmd.Console\bin\Debug\Net.SF.StyleCopCmd.Console.exe
+D:\SourceCode\Tools-Git\StyleCopCmd\src\Net.SF.StyleCopCmd.Console\bin\Debug\Net.SF.StyleCopCmd.Console.pdb
+D:\SourceCode\Tools-Git\StyleCopCmd\src\Net.SF.StyleCopCmd.Console\bin\Debug\net.sf.dotnetcli.dll
+D:\SourceCode\Tools-Git\StyleCopCmd\src\Net.SF.StyleCopCmd.Console\bin\Debug\Net.SF.StyleCopCmd.Core.dll
+D:\SourceCode\Tools-Git\StyleCopCmd\src\Net.SF.StyleCopCmd.Console\bin\Debug\StyleCop.CSharp.dll
+D:\SourceCode\Tools-Git\StyleCopCmd\src\Net.SF.StyleCopCmd.Console\bin\Debug\StyleCop.CSharp.Rules.dll
+D:\SourceCode\Tools-Git\StyleCopCmd\src\Net.SF.StyleCopCmd.Console\bin\Debug\StyleCop.dll
+D:\SourceCode\Tools-Git\StyleCopCmd\src\Net.SF.StyleCopCmd.Console\bin\Debug\NAnt.Core.dll
+D:\SourceCode\Tools-Git\StyleCopCmd\src\Net.SF.StyleCopCmd.Console\bin\Debug\Microsoft.Build.Utilities.v3.5.dll
+D:\SourceCode\Tools-Git\StyleCopCmd\src\Net.SF.StyleCopCmd.Console\bin\Debug\log4net.dll
+D:\SourceCode\Tools-Git\StyleCopCmd\src\Net.SF.StyleCopCmd.Console\bin\Debug\Net.SF.StyleCopCmd.Core.pdb
+D:\SourceCode\Tools-Git\StyleCopCmd\src\Net.SF.StyleCopCmd.Console\bin\Debug\Microsoft.Build.Utilities.v3.5.xml
+D:\SourceCode\Tools-Git\StyleCopCmd\src\Net.SF.StyleCopCmd.Console\obj\Debug\Net.SF.StyleCopCmd.Console.csprojResolveAssemblyReference.cache
+D:\SourceCode\Tools-Git\StyleCopCmd\src\Net.SF.StyleCopCmd.Console\obj\Debug\Net.SF.StyleCopCmd.Console.exe
+D:\SourceCode\Tools-Git\StyleCopCmd\src\Net.SF.StyleCopCmd.Console\obj\Debug\Net.SF.StyleCopCmd.Console.pdb

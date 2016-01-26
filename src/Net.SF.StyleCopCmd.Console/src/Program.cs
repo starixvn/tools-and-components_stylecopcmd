@@ -38,10 +38,10 @@
  ******************************************************************************/
 namespace Net.SF.StyleCopCmd.Console
 {
-    using System;
-    using System.Reflection;
     using Core;
     using net.sf.dotnetcli;
+    using System;
+    using System.Reflection;
 
     /// <summary>
     /// The entry-point class for this application.
@@ -91,8 +91,8 @@ namespace Net.SF.StyleCopCmd.Console
         /// <param name="sender">The event sender.</param>
         /// <param name="e">The output message to print.</param>
         private static void OutputGenerated(
-            object sender, 
-            Microsoft.StyleCop.OutputEventArgs e)
+            object sender,
+            StyleCop.OutputEventArgs e)
         {
             Console.WriteLine(e.Output);
         }

@@ -38,6 +38,7 @@
  ******************************************************************************/
 namespace Net.SF.StyleCopCmd.Core
 {
+    using StyleCop;
     using System;
     using System.Collections.Generic;
     using System.Globalization;
@@ -46,7 +47,6 @@ namespace Net.SF.StyleCopCmd.Core
     using System.Text.RegularExpressions;
     using System.Xml.Linq;
     using System.Xml.Xsl;
-    using Microsoft.StyleCop;
 
     /// <summary>
     /// This class assists in building a StyleCop report.
@@ -462,7 +462,6 @@ namespace Net.SF.StyleCopCmd.Core
             }
 
             scc.ViolationEncountered -= this.ViolationEncountered;
-            scc.Dispose();
 
             // Write the report to the output XML file.
             this.Report.WriteXml(outputXmlFile);
@@ -575,7 +574,7 @@ namespace Net.SF.StyleCopCmd.Core
                 path,
                 "*.cs",
                 recurse);
-        
+
             var sr = this.Report.Solutions.AddSolutionsRow(
                 path,
                 "Directory");
@@ -677,8 +676,8 @@ namespace Net.SF.StyleCopCmd.Core
                 RegexOptions.Multiline | RegexOptions.IgnoreCase);
             foreach (Match sm in smatches)
             {
-				var mstring = sm.Groups["ppath"].Value.Replace(@"\", Path.DirectorySeparatorChar.ToString() );
-				
+                var mstring = sm.Groups["ppath"].Value.Replace(@"\", Path.DirectorySeparatorChar.ToString());
+
                 var ppath =
                     Path.GetFullPath(
                         Path.GetDirectoryName(
@@ -721,7 +720,7 @@ namespace Net.SF.StyleCopCmd.Core
                 projectFilePath,
                 pname,
                 solutionsRow);
-            
+
             var pf = XDocument.Load(projectFilePath);
 
             // ReSharper disable PossibleNullReferenceException
@@ -744,7 +743,7 @@ namespace Net.SF.StyleCopCmd.Core
             {
                 var fpath =
                     Path.GetFullPath(Path.GetDirectoryName(projectFilePath))
-                    +  Path.DirectorySeparatorChar.ToString() + n.Attribute(XName.Get("Include")).Value;
+                    + Path.DirectorySeparatorChar.ToString() + n.Attribute(XName.Get("Include")).Value;
 
                 this.AddFile(
                     fpath,

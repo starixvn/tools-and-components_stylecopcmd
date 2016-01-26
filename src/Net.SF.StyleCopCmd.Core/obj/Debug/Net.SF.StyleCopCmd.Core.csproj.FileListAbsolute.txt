@@ -1,0 +1,11 @@
+D:\SourceCode\Tools-Git\StyleCopCmd\src\Net.SF.StyleCopCmd.Core\bin\Debug\Net.SF.StyleCopCmd.Core.dll
+D:\SourceCode\Tools-Git\StyleCopCmd\src\Net.SF.StyleCopCmd.Core\bin\Debug\Net.SF.StyleCopCmd.Core.pdb
+D:\SourceCode\Tools-Git\StyleCopCmd\src\Net.SF.StyleCopCmd.Core\bin\Debug\NAnt.Core.dll
+D:\SourceCode\Tools-Git\StyleCopCmd\src\Net.SF.StyleCopCmd.Core\bin\Debug\StyleCop.CSharp.dll
+D:\SourceCode\Tools-Git\StyleCopCmd\src\Net.SF.StyleCopCmd.Core\bin\Debug\StyleCop.CSharp.Rules.dll
+D:\SourceCode\Tools-Git\StyleCopCmd\src\Net.SF.StyleCopCmd.Core\bin\Debug\StyleCop.dll
+D:\SourceCode\Tools-Git\StyleCopCmd\src\Net.SF.StyleCopCmd.Core\bin\Debug\Microsoft.Build.Utilities.v3.5.dll
+D:\SourceCode\Tools-Git\StyleCopCmd\src\Net.SF.StyleCopCmd.Core\bin\Debug\log4net.dll
+D:\SourceCode\Tools-Git\StyleCopCmd\src\Net.SF.StyleCopCmd.Core\bin\Debug\Microsoft.Build.Utilities.v3.5.xml
+D:\SourceCode\Tools-Git\StyleCopCmd\src\Net.SF.StyleCopCmd.Core\obj\Debug\Net.SF.StyleCopCmd.Core.dll
+D:\SourceCode\Tools-Git\StyleCopCmd\src\Net.SF.StyleCopCmd.Core\obj\Debug\Net.SF.StyleCopCmd.Core.pdb
